@@ -14,7 +14,10 @@ deactivate
 
 
 git add py-api.py 
+
 git add templates/home.html 
+
 git commit -m "Add my first API program using python"
+
 git push
 
